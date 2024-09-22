@@ -1,2 +1,3 @@
 # Fruit-Classification-using-Image-Processing-Python-TensorFlow-VGG16-Image-Processing-
 Achieving high accuracy by preprocessing images to enhance feature extraction and trained VGG16 model to classify different types of fruits.
+ This project leverages transfer learning with the VGG16 deep learning architecture for accurate fruit detection and classification. By fine-tuning the VGG16 model on a fruit-specific dataset, the system can recognize various fruit types based on their visual features. It addresses challenges like varying lighting conditions and occlusions. Potential applications include automated fruit sorting, inventory management, and quality control in agricultural and food processing industries, with promising results in terms of accuracy and efficiency​.
